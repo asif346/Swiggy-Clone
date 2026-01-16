@@ -26,7 +26,7 @@ A full-fledged and responsive Swiggy clone built using React.js, Tailwind CSS, a
 🛠️ Getting Started
 
 1. Clone the Repository
-git clone https://github.com/darkEagle004/Swiggy_clone.git
+git clone https://github.com/asif346/Swiggy-Clone.git
 cd Swiggy_clone
 
 3. Install Dependencies
