@@ -20,7 +20,5 @@
     "redux": "^5.0.1",
     "tailwindcss": "^4.1.10"
   },
-  
-  "devDependencies": {},
   "description": ""
 }
